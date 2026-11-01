@@ -5,7 +5,7 @@ import sys
 import keyboard
 
 # 1. 設定檔案與參數
-csv_file = 'motor_sine_0.3Hz_20to100_init20.csv'  # 請替換為你實際的 CSV 檔名
+csv_file = 'DELTA/motor_sine_0.3Hz_200to720_init200.csv'  # 請替換為你實際的 CSV 檔名
 base_def = "0x00F00031" # 連續運動定義碼
 end_def = "0x00F00011"  # 最後一步的終止定義碼
 
